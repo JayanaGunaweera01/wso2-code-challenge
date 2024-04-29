@@ -1,0 +1,10 @@
+# +required Version of the endpoint configuration YAML
+version: 0.1
+
+# +required List of endpoints to create
+endpoints:
+- name: GraphQL Todo
+  port: 8090
+  type: GraphQL
+  visibility: Public
+  context: /graphql
