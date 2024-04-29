@@ -8,3 +8,15 @@ window.config = {
     baseUrl: "https://api.asgardeo.io/t/jaycreationz",
   },
 };
+
+window.config = {
+  todoApiUrl:
+    "https://8418608d-4932-498b-aeb8-b99c6da0b608-dev.e1-us-east-azure.choreoapis.dev/todoapp/todo/graphql-todo-aa9/v1",
+  auth: {
+    signInRedirectURL: "https://664db9c7-3fa5-4a17-8d8f-150622318249.e1-us-east-azure.choreoapps.dev",
+    signOutRedirectURL: "https://664db9c7-3fa5-4a17-8d8f-150622318249.e1-us-east-azure.choreoapps.dev",
+    clientID: "lxRYt4N2vnTEg1Ed1ffXNmTdvl0a",
+    baseUrl: "https://api.asgardeo.io/t/jaycreationz",
+  },
+};
+
