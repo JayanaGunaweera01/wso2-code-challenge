@@ -14,3 +14,6 @@ Execute the command below to run this service:
 ```shell
 bal run
 ```
+
+
+<img src="https://github.com/JayanaGunaweera01/wso2-code-challenge/blob/main/image.png"  width="1000">
