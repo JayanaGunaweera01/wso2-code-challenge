@@ -23,3 +23,5 @@ The frontend SPA for the Todo List App.
 ```shell
     npm run dev
 ```
+
+<img src="https://github.com/JayanaGunaweera01/wso2-code-challenge/blob/main/webapp/image.png"  width="200">
