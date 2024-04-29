@@ -1,0 +1,43 @@
+.topMenu {
+    display: flex;
+    width: 100%;
+}
+.topMenu ul {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.topMenu ul li {
+}
+.topMenu ul li a {
+    display: block;
+    padding: 12px 16px;
+    color: #fff;
+    text-decoration: none;
+}
+.topMenu .topMainMenuUl {
+    margin-left: 32px;
+}
+.topMenu .topUserMenuUl {
+    margin-left: auto;
+}
+.topMenuLogo {
+    display: flex;
+    align-items: center;
+}
+
+.userWrap {
+    display: flex;
+    align-items: center;
+}
+.userEmail {
+    color: #fff;
+    margin-right: 16px;
+}
+.content {
+}
+.signOut {
+    margin-left: 16px;
+}
