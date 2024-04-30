@@ -4,7 +4,7 @@ window.config = {
   auth: {
     signInRedirectURL: "https://d2d9193d-a9cd-474d-84f3-8edc8113a22b.e1-us-east-azure.choreoapps.dev",
     signOutRedirectURL: "https://d2d9193d-a9cd-474d-84f3-8edc8113a22b.e1-us-east-azure.choreoapps.dev",
-    clientID: "oEE0xKDt6jKsN2gqnRnrb2WLYKMa",
+    clientID: "kLqhln1CQYZ5bb_hagXgJA9eURAa",
     baseUrl: "https://api.asgardeo.io/t/jaycreationz",
   },
 };
