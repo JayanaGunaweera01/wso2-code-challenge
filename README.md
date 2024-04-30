@@ -8,4 +8,4 @@ This sample is a modified version of the [Choreo Reading List](https://github.co
 
 
 
-<img src="https://github.com/JayanaGunaweera01/wso2-code-challenge/blob/main/image1.png"  width="1000">
+<img src="https://github.com/JayanaGunaweera01/wso2-code-challenge/blob/main/image2.png"  width="1000">
